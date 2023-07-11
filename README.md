@@ -43,12 +43,9 @@ Pursuing Major in Artificial Intelligence and Data Science.
 
 ## 🛠 Skills
 Javascript | C# | Java | Kotlin
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Credits
+
 
 This project is bulit and Maintained by:
 
