@@ -49,7 +49,7 @@ Javascript | C# | Java | Kotlin
 
 This project is bulit and Maintained by:
 
-[Samuel Jayasingh](https://github.com/SamuelJayasingh)
+
 [Rishikesh Sharma](https://github.com/RishikeshSharmak)
 
 ## 🔗 Links
