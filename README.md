@@ -7,7 +7,7 @@
 - [Sudharsanam Vidyaashram](https://svschool.ac.in/)
 
 ### 💡 Interested
--Software Development, Front End, UX Design
+- Software Development, Front End, UX Design
 
 ### 🛠 Tech Stack
 <p>
