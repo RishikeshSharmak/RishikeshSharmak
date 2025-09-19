@@ -12,7 +12,7 @@
 ### 🛠 Tech Stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,figma,js" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,kotlin,html,css,figma,js" />
   </a>
   <br/>
 </p>
